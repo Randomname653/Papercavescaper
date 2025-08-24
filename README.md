@@ -77,4 +77,4 @@ The script will launch and prompt you to enter a URL from `WallpaperCave.com`.
 
 * **To scrape a whole category**, provide a category URL (e.g., `https://wallpapercave.com/categories/games`).
 * **To scrape a single album**, provide an album URL (e.g., `https://wallpapercave.com/the-witcher-3-wild-hunt-wallpapers`).
-* **For the default option**, just press `Enter`, and it will use the pre-configured URL.
+* **For the default option**, just press `Enter`, and it will use the pre-configured URL to download a test piucture and show you the script is working as intended.
